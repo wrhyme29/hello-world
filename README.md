@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello all!
+
+Testing out git in prep for larger projects
